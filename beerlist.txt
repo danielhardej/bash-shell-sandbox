@@ -1,0 +1,11 @@
+Welcome to the beer list!
+1. Budweiser
+2. Coors Light
+3. Miller Lite
+4. PBR
+5. Heineken
+6. Guinness
+7. Corona
+8. Stella Artois
+9. Blue Moon
+10. Dos Equis
